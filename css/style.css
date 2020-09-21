@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  margin: 2vw;
+  width: 60vw;
+}
+.wrap-input {
+  width: 400px;
+  margin: 1vh;
+}
+.wrap-input label {
+  vertical-align: middle;
+  margin-right: 5px;
+}
+
+#red,
+#green,
+#blue {
+  vertical-align: middle;
+}
+
+#color {
+  height: 200px;
+  width: 200px;
+  margin-left: 20vw;
+  background-color: rgb(0, 0, 0);
+}
