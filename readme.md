@@ -5,4 +5,4 @@ curso esse ministrado pela IGTI. Estamos aprendendo o desenvolvimento em javascr
 
 Primeira formatação:
 
-[Primeira Formatação](https://github.com/andrealansp/igti-bootcamp-atividade1/blob/master/img/firstFormat.png)
+![Primeira Formatação](https://github.com/andrealansp/igti-bootcamp-atividade1/blob/master/img/firstFormat.png)
